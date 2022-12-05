@@ -1,0 +1,10 @@
+.introdução{
+color: #022873;
+margin-left: 500px;
+}
+
+.jogos{
+color: #125202;
+display: flex;
+justify-content: space-around;
+}
